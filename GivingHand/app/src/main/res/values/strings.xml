@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="back_button">Back</string>
+    <string name="log_in">Log In</string>
+    <string name="admin_log_in">Log In as Admin</string>
+    <string name="admin_actions">Available Actions</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="choose_action_type">Select Which Actions You Want to See</string>
+    <string name="welcome">Welcome to Giving Hand</string>
+    <string name="display_donate_actions">Available Donation Actions</string>
+    <string name="display_animal_care_actions">Available Animal Care Actions</string>
+    <string name="display_environment_actions">Available Environmental Actions</string>
+    <string name="display_actions">Available Actions</string>
+    <string name="edit_action">Edit Action</string>
+    <string name="add_action">Add Action</string>
+    <string name="add_action_type">Choose Action Type</string>
+    <string name="show_action">Show Action</string>
+    <string name="show_user">Your account</string>
+</resources>
